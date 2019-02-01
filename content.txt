@@ -1,0 +1,11 @@
+Preamble
+
+TERMS AND CONDITIONS
+
+ 0. Definitions.
+ 1. Source Code.
+ 2. Basic Permissions.
+ ...
+ 7. Additional Terms.
+ 
+ END OF TERMS AND CONDITIONS
